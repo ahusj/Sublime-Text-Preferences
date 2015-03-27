@@ -1,0 +1,27 @@
+{
+	"update_check": false,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"line_padding_bottom": 7,
+	"line_padding_top": 7,
+	"overlay_scroll_bars": "enabled",
+	"piatto_folder_icons": true,
+	"reveal-on-activate": true,
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"set_translate_tabs": true,
+	"tab_size": 4,
+	"theme": "Brogrammer.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
